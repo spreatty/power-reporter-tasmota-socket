@@ -1,0 +1,6 @@
+{
+    "port": 8085,
+    "pingIntervalMs": 450,
+    "maxFails": 2,
+    "reportUrl": "http://127.0.0.1:8089/report"
+}
